@@ -18,6 +18,8 @@ public class Menu {
 	}
 
 	public void setStrawberryShake(String strawberryShake) {
+		// To test code from Git hub to dev local SST
 		StrawberryShake = strawberryShake;
 	}
+	
 }
